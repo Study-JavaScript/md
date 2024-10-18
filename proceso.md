@@ -356,7 +356,7 @@ project/
 
 </details><br/>
 
-## 5. Documentar API con Swagger
+## 5. API Swagger
 ### Objetivo principal
 Explorar documentación de API usando JSDocs y Swagger.
 ### Detalles
@@ -369,4 +369,12 @@ Explorar documentación de API usando JSDocs y Swagger.
 #### Documentar endpoints
 - Documentar endpoints de la API, se recomienda hacer en los usecases de la aplicación y definir el orden de los tags en el main de las routes.
 - Para ello puedes ver los diferentes ejemplos utilizados hasta las funciones de users.
+
+## 6. Submodulos de Github
+### Objetivo principal.
+Añadir submodulos de github para controlar las partes del proyecto
+### Detalles
+- Modificar las carpetas de la raíz para que cada una sea un submodulo de github
+- Añadir los submodulos al repositorio de github
+- Puedes encontrar más información sobre como añadir submodulos [aquí](./q-submodule.md)
 
