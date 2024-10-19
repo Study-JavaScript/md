@@ -378,3 +378,4 @@ Añadir submodulos de github para controlar las partes del proyecto
 - Añadir los submodulos al repositorio de github
 - Puedes encontrar más información sobre como añadir submodulos [aquí](./q-submodule.md)
 
+## 7. [Crear el frontend con Astro](../frontend-astro/md/proceso.md)
