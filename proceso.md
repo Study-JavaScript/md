@@ -370,12 +370,17 @@ Explorar documentación de API usando JSDocs y Swagger.
 - Documentar endpoints de la API, se recomienda hacer en los usecases de la aplicación y definir el orden de los tags en el main de las routes.
 - Para ello puedes ver los diferentes ejemplos utilizados hasta las funciones de users.
 
-## 6. Submodulos de Github
+## 6. Sub-módulos de Github
 ### Objetivo principal.
-Añadir submodulos de github para controlar las partes del proyecto
+Añadir sub-módulos de github para controlar las partes del proyecto
 ### Detalles
-- Modificar las carpetas de la raíz para que cada una sea un submodulo de github
-- Añadir los submodulos al repositorio de github
-- Puedes encontrar más información sobre como añadir submodulos [aquí](./q-submodule.md)
+- Modificar las carpetas de la raíz para que cada una sea un sub-módulo de github
+- Añadir los sub-módulos al repositorio de github
+- Puedes encontrar más información sobre como añadir sub-módulos [aquí](./q-submodule.md)
 
 ## 7. [Crear el frontend con Astro](../frontend-astro/md/proceso.md)
+## Todo
+- [ ] Añadir a los Posts: authorName, fecha de creación/modificación y likes 
+- [ ] Añadir endpoint para obtener el total de usuarios
+- [ ] Añadir endpoint para el buscador de posts, por titulo y/o por contenido
+- [ ] ❓Añadir la funcionalidad de signup devolver un token (iniciar sesión)
