@@ -379,8 +379,13 @@ Añadir sub-módulos de github para controlar las partes del proyecto
 - Puedes encontrar más información sobre como añadir sub-módulos [aquí](./q-submodule.md)
 
 ## 7. [Crear el frontend con Astro](../frontend-astro/md/proceso.md)
-## Todo
+## 8. Detalles finales
+### Objetivo principal
+Añadir los endpoints y modificaciones necesarias para cumplir con los requisitos del cliente y finalizar la primera parte del proyecto.
+### Detalles
 - [ ] Añadir a los Posts: authorName, fecha de creación/modificación y likes 
-- [ ] Añadir endpoint para obtener el total de usuarios
-- [ ] Añadir endpoint para el buscador de posts, por titulo y/o por contenido
+- [x] Añadir endpoint para obtener el total de usuarios
+- [x] Añadir endpoint para el buscador de posts, por titulo y/o por contenido
 - [ ] ❓Añadir la funcionalidad de signup devolver un token (iniciar sesión)
+- [x] Empezar a migrar hacia una estructura mas solida y modular, con "shared" folders como `utils` o `web components`, etc... utilizando sub-modules de Github.
+    - [ ] Retirar md como sub-módulo
